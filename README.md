@@ -105,9 +105,7 @@ AI自动回复设置 打开当前会话的详细配置界面
 ❓ 常见问题
 
 Q：API Key 在哪里获取？
-A：推荐使用 DeepSeek（最简单）：https://platform.deepseek.com/
-也可使用智谱AI（免费额度）：https://open.bigmodel.cn/
-创建 API Key。
+A：推荐使用 DeepSeek（最简单）：https://platform.deepseek.com/。也可使用智谱AI（免费额度）：https://open.bigmodel.cn/。创建 API Key。
 
 Q：为什么 AI 不回复群消息？
 A：请检查：① 是否已在当前群启用自动回复；② 是否开启了“群聊仅 @ 我时回复”，若开启则必须被 @ 才会回复；③ API Key 是否正确。
@@ -136,10 +134,13 @@ A：通过框架的悬浮窗菜单进入。
 
 如果你觉得这个项目对你有帮助，欢迎赞助支持我继续开发！你的每一份心意都是持续维护的动力 ✨
 
-- 微信扫码：          - 支付宝扫码：
+- 微信扫码：
 
-![微信收款码](images/wechatpay.png)    ![支付宝收款码](images/alipay.jpg)
+![微信收款码](images/wechatpay.png)
 
+- 支付宝扫码：
+
+![支付宝收款码](images/alipay.jpg)
 
 感谢你的支持！🙏
 
